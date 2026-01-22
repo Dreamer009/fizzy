@@ -55,6 +55,7 @@ end
 
 group :development do
   gem "web-console", github: "rails/web-console"
+  gem "foreman"
 end
 
 group :test do
